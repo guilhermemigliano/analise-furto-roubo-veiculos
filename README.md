@@ -11,5 +11,5 @@ http://www.ssp.sp.gov.br
 
 Autores:
 
-Felipe Carolino
+Felipe Carolino e
 Guilherme Migliano
